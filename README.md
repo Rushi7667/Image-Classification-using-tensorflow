@@ -6,4 +6,7 @@ Like Amoeba, Euglena, Hydra, Paramecium, Rod_bacteria, Spherical_bacteria, Spira
 This model predicts Categoris of photoes.
 </p>
 <h5>Libraries used : </h5>
-<h4>Numpy, Matplotlib, Tensorflow, Keras, Plotly</h4>
+<h4>
+Numpy, Matplotlib, Tensorflow, Keras, Plotly<br>
+After the model training we got 91% + accuracy.  
+</h4>
